@@ -27,8 +27,8 @@ app.component('intro-sandy-goreraza', {
 				<!--<a href="#" class="btn btn-default btn-lg mr-3"><i class="icon-grid"></i>View Portfolio</a>
 				<div class="spacer d-md-none d-lg-none d-sm-none" data-height="10"></div>
 				<a href="#contact" class="btn btn-border-light btn-lg scrollspy"><i class="icon-envelope"></i>Contact me</a>
-			</div>
-			<div class="overlay"></div>-->
+			</div>-->
+			<div class="overlay"></div>
 		</section>
   
   
