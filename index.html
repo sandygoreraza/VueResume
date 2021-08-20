@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Official Sandy Goreraza Resume & Portfolio</title>
+	<meta name="description" content="Sandy Goreraza Resume & Portfolio">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	
+	<link rel="shortcut icon" type="image/x-icon" href="./ico/favicon.ico">
+	<link rel="apple-touch-icon" sizes="180x180" href="./ico/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./ico/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./ico/favicon-16x16.png">
+    <link rel="manifest" href="./ico/site.webmanifest">
+
+	<!-- STYLESHEETS -->
+	<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="all">
+	<link rel="stylesheet" href="css/all.min.css" type="text/css" media="all">
+	<link rel="stylesheet" href="css/simple-line-icons.css" type="text/css" media="all">
+	<link rel="stylesheet" href="css/slick.css" type="text/css" media="all">
+	
+	<link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css" type="text/css" media="all">
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+
+	<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<style>
+.with-errors{
+color: #ff1e5a;
+display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+</style>
+<!-- SCRIPTS  <script src="https://unpkg.com/vue@3.0.0-beta.12/dist/vue.global.js"></script>-->
+<script src="https://unpkg.com/vue@3.0.0/dist/vue.global.js"></script>
+<!--<script src="https://unpkg.com/vue@3.0.0/dist/vue.global.prod.js"></script>-->  
+
+
+<script src="./main.js"></script>
+<!-- Import Components -->					
+<script src="./components/sidebar_sandy_goreraza.js"></script>
+<script src="./components/intro_sandy_goreraza.js"></script>
+<script src="./components/about_sandy_goreraza.js"></script>
+<script src="./components/skills_sandy_goreraza.js"></script>
+<script src="./components/services_sandy_goreraza.js"></script>
+<script src="./components/sociallinks_sandy_goreraza.js"></script>
+<script src="./components/contact_sandy_goreraza.js"></script>
+<script src="./components/certification_sandy_goreraza.js"></script>
+<script src="./components/experience_sandy_goreraza.js"></script>
+<script src="./components/portfolio_sandy_goreraza.js"></script>
+
+
+
+</head>
+
+<body>
+
+<!-- preloader -->
+<div id="preloader">
+	<div class="outer">
+		<div class="spinner">
+			<div class="dot1"></div>
+			<div class="dot2"></div>
+		</div>
+	</div>
+</div>
+
+
+
+ <div id="app">
+<!-- site wrapper -->
+<div class="site-wrapper">
+
+	<!-- mobile header -->
+	
+	
+	<!--
+	
+	<div class="mobile-header py-2 px-3 mt-4">
+		<button class="menu-icon mr-2">
+			<span></span>
+			<span></span>
+			<span></span>
+		</button>
+		<a href="index.html" class="logo"><img src="https://via.placeholder.com/70x70" alt="Bako Doe" /></a>
+		<a href="index.html" class="site-title dot ml-2">{{  cv_owner }}</a>
+	</div>
+	
+	
+	-->
+
+<sidebar-sandy-goreraza></sidebar-sandy-goreraza>	
+
+	<!-- main content area -->
+	<main class="content float-right">
+
+	<intro-sandy-goreraza></intro-sandy-goreraza>	
+
+	<about-sandy-goreraza></about-sandy-goreraza>
+
+	<skills-sandy-goreraza></skills-sandy-goreraza>
+	
+	<pro-experience-sandy-goreraza></pro-experience-sandy-goreraza>
+		
+	<certificates-sandy-goreraza></certificates-sandy-goreraza>
+		
+    <services-sandy-goreraza></services-sandy-goreraza>
+
+    <portfolio-sandy-goreraza></portfolio-sandy-goreraza>
+   		
+	<sociallinks-sandy-goreraza></sociallinks-sandy-goreraza>
+
+		  <div v-if="show_contactForm">
+		  <contact-sandy-goreraza></contact-sandy-goreraza>	
+		  </div>
+          <div v-else>
+		  <coming-soon-contact-sandy-goreraza></coming-soon-contact-sandy-goreraza>
+		  </div>
+		
+		
+	</main>
+
+</div>
+
+
+</div>
+
+<!-- Go to top button -->
+<a href="javascript:" id="return-to-top"><i class="fa fa-chevron-up"></i></a>
+
+
+
+
+
+    <!-- Mount App -->
+    <script>
+      const mountedApp = app.mount('#app')
+	 
+    </script>
+	
+	
+	
+
+
+<script src="js/jquery-1.12.3.min.js"></script>
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.waypoints.min.js"></script>
+<script src="js/jquery.counterup.min.js"></script>
+<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="js/isotope.pkgd.min.js"></script>
+<script src="js/infinite-scroll.min.js"></script>
+<script src="js/imagesloaded.pkgd.min.js"></script>
+<script src="js/slick.min.js"></script>
+<script src="js/contact.js"></script>
+<script src="js/validator.js"></script>
+<script src="js/custom.js"></script>
+
+</body>
+</html>
