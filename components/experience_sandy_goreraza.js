@@ -22,7 +22,7 @@ app.component('pro-experience-sandy-goreraza', {
 						<span>March 2014 - Date </span>
 					</div>
 					<div class="body">
-						<h4 class="mt-0">WEB DEVELOPER</h4>
+						<h4 class="mt-0">Senior Full Stack Web Developer</h4>
 						<h5 class="mt-1" style="color:#000080;font-size: 0.25rem !important;">Zimbabwe Tourism Authority </h5>
 						<p style="text-align: justify;">Incumbent develops, recommends and maintains systems
 						appropriate and optimal for the corporate. Implements aspects 
