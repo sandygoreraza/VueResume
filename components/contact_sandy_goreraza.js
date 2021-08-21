@@ -134,7 +134,7 @@ title : 'Get in touch - Contact Form Coming Soon'
 
  
  <!-- section about -->
-		<section id="about" class="shadow-blue white-bg padding">
+		<section id="contact" class="shadow-blue white-bg padding">
 			<h3 class="section-title">{{ title }}</h3>
 			<div class="spacer" data-height="80"></div>
 
