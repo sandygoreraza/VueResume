@@ -27,7 +27,7 @@ app.component('sidebar-sandy-goreraza', {
 		<div class="header-inner d-flex align-items-start flex-column">
 			<!--<a href="index.html"><img src="https://via.placeholder.com/70x70" alt="Sandy Goreraza" /></a>-->
 			 
-			<a href="index.html" class="site-title dot mt-3" style="font-size: 28px !important;">{{  cv_owner }}</a>
+			<a href="index.html" class="site-title dot mt-3" style="font-size: 24px !important;">{{  cv_owner }}</a>
 			 
 			<span class="site-slogan">{{  designation }}</span>
 			
