@@ -45,7 +45,7 @@ app.component('portfolio-sandy-goreraza', {
 				
 				<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item video">
-					<a href="#videoTutorials">
+					<a target="_blank" href="https://www.youtube.com/embed/zu_pRjaEVQo">
 						<div class="portfolio-item">
 							<div class="details">
 								<h4 class="title">Virtual-Exhibition</h4>
@@ -64,7 +64,7 @@ app.component('portfolio-sandy-goreraza', {
 				
 				<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item flask">
-					<a href="#flask">
+					<a target="_blank" href="https://github.com/sandygoreraza/FlaskTaskManagementSampleApp">
 						<div class="portfolio-item">
 							<div class="details">
 								<h4 class="title">Task Management Platform</h4>
@@ -101,7 +101,7 @@ app.component('portfolio-sandy-goreraza', {
 				
 					<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item codeigniter">
-					<a href="#codeigniter">
+					<a  href="#codeigniter">
 						<div class="portfolio-item">
 							<div class="details">
 								<h4 class="title">Funding Platform</h4>
@@ -135,7 +135,7 @@ app.component('portfolio-sandy-goreraza', {
 
 				<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item custom">
-					<a href="#VirtualExhibition">
+					<a target="_blank" href="https://sanganaitourismexpo.com/">
 						<div class="portfolio-item">
 							<div class="details">
 								<h4 class="title">Virtual Exhibition Platform</h4>
@@ -169,7 +169,7 @@ app.component('portfolio-sandy-goreraza', {
 
 				<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item custom">
-					<a href="#e-Registration">
+					<a target="_blank" href="https://app.zimbabwetourism.net/">
 						<div class="portfolio-item">
 							<div class="details">
 								<h4 class="title">e-Registration - Tourism Industry</h4>
@@ -186,7 +186,7 @@ app.component('portfolio-sandy-goreraza', {
 
 				<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item wordpress design">
-					<a href="#Travel24tours">
+					<a target="_blank" href="https://travel24tours.co.zw/">
 						<div class="portfolio-item">
 							<div class="details">
 								<h4 class="title">Travel24tours</h4>
