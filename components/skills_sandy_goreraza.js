@@ -49,6 +49,23 @@ app.component('skills-sandy-goreraza', {
 						<div class="spacer" data-height="50"></div>
 					</div>
 				</div>
+				
+				
+					<div class="col-md-6">
+					<!-- skill item -->
+					<div class="skill-item">
+						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0">MODX</h4>
+							<span class="float-right">70%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="70">
+							</div>
+						</div>
+						<div class="spacer" data-height="50"></div>
+					</div>
+				</div>
+				
 
 				<div class="col-md-6">
 					<!-- skill item -->
