@@ -50,7 +50,7 @@ app.component('pro-experience-sandy-goreraza', {
 					<div class="body">
 						<h4 class="mt-0">LEAD BACKEND DEVELOPER</h4>
 						<h5 class="mt-1" style="color:#000080;font-size: 1.25rem !important;">{{ WORKPLACETHREE }}</h5>
-						<p>Led a team of IT Professionals in the role of Senior Web Developer on a croud funding portal.</p>
+						<p>Led a team of IT Professionals in the role of Senior Web Developer on a Crowd Funding portal.</p>
 					</div>
 				</div>
 				<span class="timeline-line"></span>
