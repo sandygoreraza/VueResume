@@ -104,7 +104,7 @@ app.component('portfolio-sandy-goreraza', {
 					<a  href="#codeigniter">
 						<div class="portfolio-item">
 							<div class="details">
-								<h4 class="title">Funding Platform</h4>
+								<h4 class="title">Crowd Funding Platform</h4>
 								<span class="term">Codeigniter Framework</span>
 							</div>
 							<span class="plus-icon">+</span>
@@ -118,7 +118,7 @@ app.component('portfolio-sandy-goreraza', {
 
 				<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item wordpress design">
-					<a href="#Travelwithme">
+					<a target="_blank" href="https://travelwithme.co.zw/">
 						<div class="portfolio-item">
 							<div class="details">
 								<h4 class="title">Travelwithme</h4>
