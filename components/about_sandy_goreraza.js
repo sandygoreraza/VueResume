@@ -51,7 +51,7 @@ app.component('about-sandy-goreraza', {
 					</div>
 					
 					
-	<a href="./cv/Goreraza+CV.docx" class="btn btn-default mr-3" download="./cv/Goreraza+CV.docx">Download CV</a>	
+	<a href="./cv/Sandy_Goreraza_Resume.pdf" class="btn btn-default mr-3" download="./cv/Sandy_Goreraza_Resume.pdf">Download CV</a>	
 					
 					
 					<!--<a href="#" class="btn btn-default mr-3"><i class="icon-cloud-download"></i>Download CV</a>-->
