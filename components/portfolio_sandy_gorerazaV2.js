@@ -1,4 +1,4 @@
-app.component('v1portfolio-sandy-goreraza', {
+app.component('portfo-sandy-goreraza', {
 		
 	data(){
 		return{
