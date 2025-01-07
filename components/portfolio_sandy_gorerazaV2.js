@@ -85,12 +85,30 @@ app.component('portfolio-sandy-goreraza', {
 					<a href="#laravel">
 						<div class="portfolio-item">
 							<div class="details">
-								<h4 class="title">Coming Soon</h4>
+								<h4 class="title">Client Portal for Mauritius Institute of Directors</h4>
 								<span class="term">Laravel Framework</span>
 							</div>
 							<span class="plus-icon">+</span>
 							<div class="thumb" style="height : 184px;width: 245px;">
-							<img src="https://via.placeholder.com/245x184?text=Laravel+Coming+Soon" alt="Laravel" />
+							<img src="./images/MyMIoD.png" alt="MyMIoD" />
+								<div class="mask"></div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+
+
+                                	<div class="col-md-4 col-sm-6 grid-item laravel">
+					<a href="#laravel">
+						<div class="portfolio-item">
+							<div class="details">
+								<h4 class="title">Travel Expo Meetings and Conference Portal</h4>
+								<span class="term">Laravel Framework</span>
+							</div>
+							<span class="plus-icon">+</span>
+							<div class="thumb" style="height : 184px;width: 245px;">
+							<img src="./images/Sanganai-Hlanganani-.png" alt="MyMIoD" />
 								<div class="mask"></div>
 							</div>
 						</div>
