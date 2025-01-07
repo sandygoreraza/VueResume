@@ -139,6 +139,24 @@ app.component('portfo-sandy-goreraza', {
 
 
 
+     <!-- portfolio item -->
+				<div class="col-md-4 col-sm-6 grid-item flask">
+					<a href="#flask">
+						<div class="portfolio-item">
+							<div class="details">
+								<h4 class="title">EPP Client Portal for Domain Management (Backend)</h4>
+								<span class="term">Flask Framework</span>
+							</div>
+							<span class="plus-icon">+</span>
+							<div class="thumb" style="height : 184px;width: 245px;">
+							<img src="./images/epp_portal.png" alt="MyMIoD" />
+								<div class="mask"></div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+
 
                                 	<div class="col-md-4 col-sm-6 grid-item laravel">
 					<a href="#laravel">
