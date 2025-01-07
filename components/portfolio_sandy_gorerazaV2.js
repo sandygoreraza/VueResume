@@ -24,6 +24,7 @@ app.component('portfo-sandy-goreraza', {
 				<li class="list-inline-item" data-filter=".flask">Flask</li>
 				<li class="list-inline-item" data-filter=".laravel">Laravel</li>
    				<li class="list-inline-item" data-filter=".vuejs">Vue.js</li>
+      				<li class="list-inline-item" data-filter=".reactjs">React js</li>
 				<li class="list-inline-item" data-filter=".codeigniter">CodeIgniter</li>
 				<li class="list-inline-item" data-filter=".video">Video</li>
 			</ul>
@@ -89,7 +90,7 @@ app.component('portfo-sandy-goreraza', {
 						<div class="portfolio-item">
 							<div class="details">
 								<h4 class="title">Client Portal for Mauritius Institute of Directors</h4>
-								<span class="term">Laravel Framework and Vue.js</span>
+								<span class="term">Laravel and Vue.js Framework(s)</span>
 							</div>
 							<span class="plus-icon">+</span>
 							<div class="thumb" style="height : 184px;width: 245px;">
@@ -107,11 +108,29 @@ app.component('portfo-sandy-goreraza', {
 						<div class="portfolio-item">
 							<div class="details">
 								<h4 class="title">Client Portal for Mauritius Institute of Directors</h4>
-								<span class="term">Laravel Framework and Vue.js</span>
+								<span class="term">Laravel and Vue.js Framework(s)</span>
 							</div>
 							<span class="plus-icon">+</span>
 							<div class="thumb" style="height : 184px;width: 245px;">
 							<img src="./images/MyMIoD.png" alt="MyMIoD" />
+								<div class="mask"></div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+
+     <!-- portfolio item -->
+				<div class="col-md-4 col-sm-6 grid-item reactjs">
+					<a href="#reactjs">
+						<div class="portfolio-item">
+							<div class="details">
+								<h4 class="title">EPP Client Portal for Domain Management</h4>
+								<span class="term">React js Library</span>
+							</div>
+							<span class="plus-icon">+</span>
+							<div class="thumb" style="height : 184px;width: 245px;">
+							<img src="./images/epp_portal.png" alt="MyMIoD" />
 								<div class="mask"></div>
 							</div>
 						</div>
