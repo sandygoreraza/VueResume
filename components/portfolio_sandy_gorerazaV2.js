@@ -147,7 +147,7 @@ app.component('portfo-sandy-goreraza', {
 
     <!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item vuejs">
-					<a href="#vuejs">
+					<a target="_blank" href="https://crm.miod.mu/mymiod/login">
 						<div class="portfolio-item">
 							<div class="details">
 								<h4 class="title">Client Portal for Mauritius Institute of Directors</h4>
@@ -202,7 +202,7 @@ app.component('portfo-sandy-goreraza', {
 
 
                                 	<div class="col-md-4 col-sm-6 grid-item laravel">
-					<a href="#laravel">
+					<a target="_blank" href="http://meetings.sanganaitourismexpo.com/participant/login">
 						<div class="portfolio-item">
 							<div class="details">
 								<h4 class="title">Travel Expo Meetings and Conference Portal</h4>
