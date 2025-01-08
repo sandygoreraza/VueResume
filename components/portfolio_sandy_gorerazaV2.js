@@ -18,27 +18,28 @@ app.component('portfo-sandy-goreraza', {
 
 			<!-- portfolio filter (desktop) -->
 			<ul class="portfolio-filter list-inline">
-				<li class="current list-inline-item" data-filter="*">All Projects</li>
-				<li class="list-inline-item" data-filter=".custom">Custom Systems</li>
+				<li class="current list-inline-item" data-filter="*">Projects Highlight</li>
+				<li class="list-inline-item" data-filter=".custom">Custom</li>
 				<li class="list-inline-item" data-filter=".wordpress">WordPress</li>
 				<li class="list-inline-item" data-filter=".flask">Flask</li>
 				<li class="list-inline-item" data-filter=".laravel">Laravel</li>
    				<li class="list-inline-item" data-filter=".vuejs">Vue.js</li>
       				<li class="list-inline-item" data-filter=".reactjs">React js</li>
-				<li class="list-inline-item" data-filter=".codeigniter">CodeIgniter</li>
+				<li class="list-inline-item" data-filter=".javaee">Java EE</li>
 				<li class="list-inline-item" data-filter=".video">Video</li>
 			</ul>
 
 			<!-- portfolio filter (mobile) -->
 			<div class="pf-filter-wrapper mb-4">
 				<select class="portfolio-filter-mobile">
-					<option value="*">Everything</option>
-					<option value=".wordpress">WordPress</option>
-					<option value=".video">Video</option>
+					<option value="*">Projects</option>
+					<option value=".custom">Custom</option>
 					<option value=".flask">Flask</option>
 					<option value=".laravel">Laravel</option>
-					<option value=".codeigniter">CodeIgniter</option>
-					<option value=".custom">Custom Systems</option>
+					<option value=".vuejs">Vue.js</option>
+					<option value=".reactjs">React js</option>
+					<option value=".javaee">Java EE</option>
+ 					<option value=".video">Video</option>
 				</select>
 			</div>
 
@@ -62,7 +63,26 @@ app.component('portfo-sandy-goreraza', {
 					</a>
 				</div>
 				
-				
+
+
+
+                               <!-- portfolio item -->
+				<div class="col-md-4 col-sm-6 grid-item javaee">
+					<a target="_blank" href="#javaee">
+						<div class="portfolio-item">
+							<div class="details">
+								<h4 class="title">Warehouse Management System (ED Logistics)</h4>
+								<span class="term">JSP</span>
+							</div>
+							<span class="plus-icon">+</span>
+							<div class="thumb" style="height : 184px;width: 245px;">
+						<img src="./images/WarehouseEDL.png" alt="Warehouse EDL" />
+								<div class="mask"></div>
+							</div>
+						</div>
+					</a>
+				</div>
+    
 				
 				<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item flask">
@@ -176,22 +196,7 @@ app.component('portfo-sandy-goreraza', {
 				
 				
 				
-					<!-- portfolio item -->
-				<div class="col-md-4 col-sm-6 grid-item codeigniter">
-					<a  href="#codeigniter">
-						<div class="portfolio-item">
-							<div class="details">
-								<h4 class="title">Crowd Funding Platform</h4>
-								<span class="term">Codeigniter Framework</span>
-							</div>
-							<span class="plus-icon">+</span>
-							<div class="thumb" style="height : 184px;width: 245px;">
-							<img src="./images/codeIgnitor_funding.png" alt="CodeIgniter" />
-								<div class="mask"></div>
-							</div>
-						</div>
-					</a>
-				</div>
+			 
 
 				<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item wordpress design">
