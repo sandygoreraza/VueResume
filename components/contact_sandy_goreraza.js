@@ -67,7 +67,7 @@ email : 'sandygoreraza@hotmail.com.',
 
 
 
-app.component('coming-soon-contact-sandy-goreraza', {
+app.component('contact-sandy-goreraza-v2', {
 
 data(){
 return{
