@@ -22,7 +22,7 @@ app.component('pro-experience-sandy-goreraza', {
 			<div class="timeline">
 				<div class="entry">
 					<div class="title">
-                                                <span><img src="./images/VECTORS-Adobe-Stock.png" class="rounded-circle mx-2" alt="Cinque Terre" width="100" height="100"> </span>
+                                                <span><img src="./images/ZTA-Logo-PNG.png" class="rounded-circle mx-2" alt="Cinque Terre" width="100" height="100"> </span>
 						<span><div class="mb-2">March 2014 - Jan 2022</div></span>
 					</div>
 					<div class="body">
