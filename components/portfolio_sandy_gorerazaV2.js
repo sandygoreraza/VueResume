@@ -28,6 +28,7 @@ app.component('portfo-sandy-goreraza', {
       				<li class="list-inline-item" data-filter=".reactjs">React js</li>
 				<li class="list-inline-item" data-filter=".crm">VtigerCRM</li>
 				<li class="list-inline-item" data-filter=".javaee">Java EE</li>
+   				<li class="list-inline-item" data-filter=".flutter">Mobile App</li>
 				<li class="list-inline-item" data-filter=".video">Video</li>
 			</ul>
 
@@ -43,6 +44,7 @@ app.component('portfo-sandy-goreraza', {
 					<option value=".reactjs">React js</option>
                                         <option value=".crm">VtigerCRM</option>
 					<option value=".javaee">Java EE</option>
+     					<option value=".flutter">Mobile App</option>
  					<option value=".video">Video</option>
 				</select>
 			</div>
@@ -139,6 +141,26 @@ app.component('portfo-sandy-goreraza', {
 						</div>
 					</a>
 				</div>
+
+
+  			  <!-- portfolio item -->
+				<div class="col-md-4 col-sm-6 grid-item flutter">
+					<a target="_blank" href="#flutter">
+						<div class="portfolio-item">
+							<div class="details">
+								<h4 class="title">Travel Expo App</h4>
+								<span class="term">Dart and Flutter</span>
+							</div>
+							<span class="plus-icon">+</span>
+							<div class="thumb" style="height : 184px;width: 245px;">
+							<img src="./images/flutterApp.png" alt="Travel Expo App" />
+								<div class="mask"></div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+
 
 
 
