@@ -144,7 +144,7 @@ app.component('portfo-sandy-goreraza', {
 					<a href="#flask">
 						<div class="portfolio-item">
 							<div class="details">
-								<h4 class="title">EPP Client Portal for Domain Management (Backend)</h4>
+								<h4 class="title">EPP Client Portal for Domain Management (Back-end)</h4>
 								<span class="term">Flask Framework</span>
 							</div>
 							<span class="plus-icon">+</span>
