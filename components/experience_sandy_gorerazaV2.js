@@ -26,11 +26,11 @@ app.component('pro-experience-sandy-goreraza', {
 
   					 <div class="entry">
 					<div class="title">
-                                                <span><img src="./images/Ahona.jpg" class="rounded-circle mx-1-custome" alt="Ahona Innovations" width="200" height="80"> </span>
+                                                <span><img src="./images/Ahona.jpg" class="rounded-circle mx-1-custome" alt="Ahona Innovations" width="100" height="100"> </span>
 						<span><div class="mb-2">Dec 2023 - Present</div></span>
 					</div>
 					<div class="body">
-						<h4 class="mt-0">SOFTWARE DEVELOPMENT C</h4>
+						<h4 class="mt-0">SOFTWARE DEVELOPMENT CONSULTANT</h4>
 						<h5 class="mt-1" style="color:#000080;font-size: 1.25rem !important;">{{ WORKPLACEFIVE }}</h5>
 						<p style="text-align: justify;">Build strong relationships with clients, effectively communicating technical concepts in an understandable way. Provide strategic guidance on technology choices,
       software architecture, and development methodologies. Design innovative solutions, conduct thorough code evaluations, and ensure compliance with quality standards. Collaborate with teams to plan and execute projects, identify process 
