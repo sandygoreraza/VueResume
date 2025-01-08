@@ -136,7 +136,7 @@ app.component('portfo-sandy-goreraza', {
 							</div>
 							<span class="plus-icon">+</span>
 							<div class="thumb" style="height : 184px;width: 245px;">
-							<img src="./images/MyMIoD.png" alt="MyMIoD" />
+							<img src="./images/VtigerCRM.png" alt="CRM MIoD" />
 								<div class="mask"></div>
 							</div>
 						</div>
