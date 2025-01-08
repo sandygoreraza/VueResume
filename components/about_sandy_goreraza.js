@@ -51,10 +51,10 @@ app.component('about-sandy-goreraza', {
 					</div>
 					
 					
-	<a href="./cv/Sandy_Goreraza_Resume.pdf" class="btn btn-default mr-3" download="./cv/Sandy_Goreraza_Resume.pdf">Download CV</a>	
+	<!--<a href="./cv/Sandy_Goreraza_Resume.pdf" class="btn btn-default mr-3" download="./cv/Sandy_Goreraza_Resume.pdf">Download CV</a>-->	
 					
 					
-					<!--<a href="#" class="btn btn-default mr-3"><i class="icon-cloud-download"></i>Download CV</a>-->
+					<!--<a href="#" class="btn btn-default mr-2"><i class="icon-cloud-download"></i>Download CV</a>-->
 					<a href="tel:+263778218850" class="btn btn-alt mt-2 mt-md-0 mt-xs-2"><i class="icon-phone"></i>Hire me</a>
 				</div>
 			</div>
