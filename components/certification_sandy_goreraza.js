@@ -19,6 +19,50 @@ certificates_header : 'Professional and Academic Certificates'
 			<div class="spacer" data-height="97"></div>
 
 			<div class="row testimonials-wrapper">
+
+
+
+                              <div class="col-md-6">
+					<!-- testimonial item -->
+					<div class="testimonial-item">
+						
+						<div class="testimonial-details">
+							<div class="thumb">
+								<img src="./images/nodejs.png" alt="NodeJS" />
+							</div>
+							<div class="info">
+								<h4>NodeJS Certified</h4>
+								<span>Pentalog HR</span><br>
+								 
+								
+							<a target="_blank" href="https://skillvalue.com/en/user/certificate/4zc9pvTx91rK8iQtAEkUaGcfmPbv39sT68lFxLNrfcscwXEBCJqCPKAyr6fo">See credential</a>	
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+   				   <div class="col-md-6">
+					<!-- testimonial item -->
+					<div class="testimonial-item">
+						
+						<div class="testimonial-details">
+							<div class="thumb">
+								<img src="./images/exam-az400-600x600" alt="Azure DevOPs" />
+							</div>
+							<div class="info">
+								<h4>AZ-400: Designing and Implementing Microsoft DevOps Solutions</h4>
+								<span>MicroSoft Learn</span><br>
+																
+							<a target="_blank" href="https://www.credly.com/badges/0fa123a4-b639-4ab2-9c18-1fdb64d4f148">See credential</a>	
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+   
 				
 				<div class="col-md-6">
 					<!-- testimonial item -->
@@ -26,7 +70,7 @@ certificates_header : 'Professional and Academic Certificates'
 						
 						<div class="testimonial-details">
 							<div class="thumb">
-								<img src="./images/pirple.jpg" alt="Pirple.comss" />
+								<img src="./images/pirple.jpg" alt="Pirple.com" />
 							</div>
 							<div class="info">
 								<h4>Full Stack Web Development with Flask</h4>
