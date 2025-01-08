@@ -51,7 +51,7 @@ certificates_header : 'Professional and Academic Certificates'
 								<img src="./images/exam-az400-600x600" alt="Azure DevOPs" />
 							</div>
 							<div class="info">
-								<h4>AZ-400: Designing and Implementing Microsoft DevOps Solutions</h4>
+								<h4>AZ-400</h4>
 								<span>MicroSoft Learn</span><br>
 																
 							<a target="_blank" href="https://www.credly.com/badges/0fa123a4-b639-4ab2-9c18-1fdb64d4f148">See credential</a>	
