@@ -4,8 +4,8 @@ data(){
 return{
 
 title : 'Get in touch',
-email : 'gorerazasandy10@gmail.com.',
-            Address : 'Mabvuku Police Camp,Old Mabvuku, Harare, Zimbabwe.',
+email : 'sandygoreraza@hotmail.com.',
+            Address : '12125 Timire Park, Ruwa, Harare, Zimbabwe.',
             phonenumber : '+263 778 218 850 / +263 773 300 994',
 
 
