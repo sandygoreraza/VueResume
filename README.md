@@ -7,8 +7,6 @@ To view this Resume see [Sandy Goreraza Resume](https://sandygoreraza.github.io/
 
 ### CORE COMPETENCIES
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Programming Skills: C#, Python, Java EE and JavaScript.
 
