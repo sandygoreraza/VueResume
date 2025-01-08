@@ -3,12 +3,10 @@ app.component('intro-sandy-goreraza', {
 	data(){
 		return{
 		  cv_owner : 'Sandy Goreraza',	
-		  profile : 'Innovative, task-driven professional with 7+ years of experience in ' +
-                'web design and development across diverse industries. Equipped with a record of success ' +
-                'in consistently identifying and providing the technological needs of companies ' +
-                'through ingenious innovation. Proficient in developing databases, creating user ' +
-                'interfaces, writing and testing codes, troubleshooting simple/complex issues, and ' +
-                'implementing new features based on user feedback.'
+		  profile : 'A professional Software Engineer with more than 10 years' experience in 
+			software development and architecture. Ready to bring a blend of technical expertise
+			and business acumen to the table. Meticulous attention to detail and efficiency in a fast-paced environment. 
+				Committed to delivering high-quality solutions that align with business objectives.'
            
 		}
 		
