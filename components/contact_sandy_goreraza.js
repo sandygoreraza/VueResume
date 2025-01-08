@@ -101,7 +101,7 @@ title : 'Get in touch'
 					
 					<a href="tel:+263778218850" class="btn btn-alt mt-2 mt-md-0 mt-xs-2"><i class="icon-phone"></i>Hire me</a>
 				</div>	
-				</div>
+				 
 			</div>
 		</section>
  
