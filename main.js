@@ -8,7 +8,7 @@ const app = Vue.createApp({
             
             cv_nameform : 'Sandy Goreraza Resume',
             
-            designation : 'Senior Full Stack Web Developer',
+            designation : 'Senior Software Engineer',
             show_contactForm : false,
             certificates_header : 'Professional Certifications'
         }
