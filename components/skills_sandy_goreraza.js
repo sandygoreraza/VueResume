@@ -20,6 +20,23 @@ app.component('skills-sandy-goreraza', {
 
 			<div class="row mt-5">
 
+   				<div class="col-md-6">
+					<!-- skill item -->
+					<div class="skill-item">
+						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0">C#</h4>
+							<span class="float-right">70%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="70">
+							</div>
+						</div>
+						<div class="spacer" data-height="50"></div>
+					</div>
+				</div>
+
+    
+
 				<div class="col-md-6">
 					<!-- skill item -->
 					<div class="skill-item">
@@ -34,6 +51,106 @@ app.component('skills-sandy-goreraza', {
 						<div class="spacer" data-height="50"></div>
 					</div>
 				</div>
+
+
+
+    				<div class="col-md-6">
+					<!-- skill item -->
+					<div class="skill-item">
+						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0">PHP</h4>
+							<span class="float-right">80%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80">
+							</div>
+						</div>
+						<div class="spacer" data-height="50"></div>
+					</div>
+				</div>
+
+
+                             <div class="col-md-6">
+					<!-- skill item -->
+					<div class="skill-item">
+						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0">JAVA EE</h4>
+							<span class="float-right">60%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="60">
+							</div>
+						</div>
+						<div class="spacer" data-height="50"></div>
+					</div>
+				</div>
+
+
+    				<div class="col-md-6">
+					<!-- skill item -->
+					<div class="skill-item">
+						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0">.Net Core</h4>
+							<span class="float-right">60%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="60">
+							</div>
+						</div>
+						<div class="spacer" data-height="50"></div>
+					</div>
+				</div>
+
+
+    				<div class="col-md-6">
+					<!-- skill item -->
+					<div class="skill-item">
+						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0">ASP .Net</h4>
+							<span class="float-right">70%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="70">
+							</div>
+						</div>
+						<div class="spacer" data-height="50"></div>
+					</div>
+				</div>
+
+
+    				<div class="col-md-6">
+					<!-- skill item -->
+					<div class="skill-item">
+						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0">Blazor</h4>
+							<span class="float-right">80%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80">
+							</div>
+						</div>
+						<div class="spacer" data-height="50"></div>
+					</div>
+				</div>
+
+
+   				 <div class="col-md-6">
+					<!-- skill item -->
+					<div class="skill-item">
+						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0">React.js</h4>
+							<span class="float-right">70%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="70">
+							</div>
+						</div>
+						<div class="spacer" data-height="50"></div>
+					</div>
+				</div>
+
+
+    				   
 
 				<div class="col-md-6">
 					<!-- skill item -->
@@ -55,7 +172,7 @@ app.component('skills-sandy-goreraza', {
 					<!-- skill item -->
 					<div class="skill-item">
 						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">MODX</h4>
+							<h4 class="float-left mb-3 mt-0">FASTRAPI</h4>
 							<span class="float-right">70%</span>
 						</div>
 						<div class="progress">
@@ -109,26 +226,11 @@ app.component('skills-sandy-goreraza', {
 					<!-- skill item -->
 					<div class="skill-item">
 						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">vue.js</h4>
+							<h4 class="float-left mb-3 mt-0">Vue.js</h4>
 							<span class="float-right">70%</span>
 						</div>
 						<div class="progress">
 							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="70">
-							</div>
-						</div>
-						<div class="spacer" data-height="50"></div>
-					</div>
-				</div>
-
-				<div class="col-md-6">
-					<!-- skill item -->
-					<div class="skill-item">
-						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">PHP</h4>
-							<span class="float-right">80%</span>
-						</div>
-						<div class="progress">
-							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80">
 							</div>
 						</div>
 						<div class="spacer" data-height="50"></div>
@@ -177,7 +279,7 @@ app.component('skills-sandy-goreraza', {
 					<!-- skill item -->
 					<div class="skill-item">
 						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">Android Kotlin</h4>
+							<h4 class="float-left mb-3 mt-0">Flutter</h4>
 							<span class="float-right">60%</span>
 						</div>
 						<div class="progress">
@@ -192,7 +294,7 @@ app.component('skills-sandy-goreraza', {
 					<!-- skill item -->
 					<div class="skill-item">
 						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">JSON</h4>
+							<h4 class="float-left mb-3 mt-0">Rest API</h4>
 							<span class="float-right">70%</span>
 						</div>
 						<div class="progress">
@@ -222,7 +324,7 @@ app.component('skills-sandy-goreraza', {
 					<!-- skill item -->
 					<div class="skill-item">
 						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">Systems security</h4>
+							<h4 class="float-left mb-3 mt-0">Entity Framework</h4>
 							<span class="float-right">80%</span>
 						</div>
 						<div class="progress">
@@ -249,7 +351,7 @@ app.component('skills-sandy-goreraza', {
 					<!-- skill item -->
 					<div class="skill-item">
 						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">WordPress</h4>
+							<h4 class="float-left mb-3 mt-0">GitHub</h4>
 							<span class="float-right">90%</span>
 						</div>
 						<div class="progress">
@@ -264,7 +366,7 @@ app.component('skills-sandy-goreraza', {
 					<!-- skill item -->
 					<div class="skill-item">
 						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">GRAPHIC DESIGN</h4>
+							<h4 class="float-left mb-3 mt-0">Azure DevOps</h4>
 							<span class="float-right">60%</span>
 						</div>
 						<div class="progress">
@@ -279,7 +381,7 @@ app.component('skills-sandy-goreraza', {
 					<!-- skill item -->
 					<div class="skill-item">
 						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">NETWORKING SECURITY</h4>
+							<h4 class="float-left mb-3 mt-0">WebRTC,Y</h4>
 							<span class="float-right">60%</span>
 						</div>
 						<div class="progress">
