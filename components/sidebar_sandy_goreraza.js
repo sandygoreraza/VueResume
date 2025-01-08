@@ -3,13 +3,10 @@ app.component('sidebar-sandy-goreraza', {
  data() {
         return {
 
-            sandygoreraza : true,
+            // sandygoreraza : true,
             cv_name : 'Sandy Goreraza Resume',
             cv_owner : 'Sandy Goreraza',
-            designation : 'Senior Full Stack Web Developer',
-            email : 'gorerazasandy10@gmail.com.',
-            Address : 'Mabvuku Police Camp,Old Mabvuku, Harare, Zimbabwe.',
-            phonenumber : '+263 778 218 850 / +263 773 300 994',
+            designation : 'Senior Software Engineer',
             certificates_header : 'Professional Certifications'
         }
     },	
