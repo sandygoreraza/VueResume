@@ -2,7 +2,7 @@ app.component('skills-sandy-goreraza', {
 		
 	data(){
 		return{
-		title : 'My skills'
+		title : 'My Technical skills'
            
 		}
 		
