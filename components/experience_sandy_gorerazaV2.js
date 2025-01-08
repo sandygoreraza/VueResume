@@ -26,7 +26,7 @@ app.component('pro-experience-sandy-goreraza', {
 
   					 <div class="entry">
 					<div class="title">
-                                                <span><img src="./images/cybernapticslogo.png" class="rounded-circle mx-1-custome" alt="Cybernaptics" width="200" height="80"> </span>
+                                                <span><img src="./images/Ahona.jpg" class="rounded-circle mx-1-custome" alt="Ahona Innovations" width="200" height="80"> </span>
 						<span><div class="mb-2">Dec 2023 - Present</div></span>
 					</div>
 					<div class="body">
