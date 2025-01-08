@@ -166,22 +166,7 @@ app.component('portfo-sandy-goreraza', {
 				</div>
 
 
-    <!-- portfolio item -->
-				<div class="col-md-4 col-sm-6 grid-item vuejs">
-					<a target="_blank" href="https://crm.miod.mu/mymiod/login">
-						<div class="portfolio-item">
-							<div class="details">
-								<h4 class="title">Client Portal for Mauritius Institute of Directors</h4>
-								<span class="term">Laravel and Vue.js Framework(s)</span>
-							</div>
-							<span class="plus-icon">+</span>
-							<div class="thumb" style="height : 184px;width: 245px;">
-							<img src="./images/MyMIoD.png" alt="MyMIoD" />
-								<div class="mask"></div>
-							</div>
-						</div>
-					</a>
-				</div>
+ 
 
 
      <!-- portfolio item -->
@@ -270,6 +255,24 @@ app.component('portfo-sandy-goreraza', {
 							<span class="plus-icon">+</span>
 							<div class="thumb" style="height : 184px;width: 245px;">
 								<img src="./images/Sanganai-Hlanganani-Matchmaking-®-2021.png" alt="Virtual-Exhibition" />
+								<div class="mask"></div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+
+       <!-- portfolio item -->
+				<div class="col-md-4 col-sm-6 grid-item vuejs">
+					<a target="_blank" href="https://crm.miod.mu/mymiod/login">
+						<div class="portfolio-item">
+							<div class="details">
+								<h4 class="title">Client Portal for Mauritius Institute of Directors</h4>
+								<span class="term">Laravel and Vue.js Framework(s)</span>
+							</div>
+							<span class="plus-icon">+</span>
+							<div class="thumb" style="height : 184px;width: 245px;">
+							<img src="./images/MyMIoD.png" alt="MyMIoD" />
 								<div class="mask"></div>
 							</div>
 						</div>
