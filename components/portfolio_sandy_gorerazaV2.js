@@ -106,7 +106,22 @@ app.component('portfo-sandy-goreraza', {
 				</div>
 
     
-				
+				 <!-- portfolio item -->
+				<div class="col-md-4 col-sm-6 grid-item reactjs">
+					<a href="#reactjs">
+						<div class="portfolio-item">
+							<div class="details">
+								<h4 class="title">EPP Client Portal for Domain Management(Front-end)</h4>
+								<span class="term">React js Library</span>
+							</div>
+							<span class="plus-icon">+</span>
+							<div class="thumb" style="height : 184px;width: 245px;">
+							<img src="./images/epp_portal.png" alt="MyMIoD" />
+								<div class="mask"></div>
+							</div>
+						</div>
+					</a>
+				</div>
 				
 				<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item laravel">
@@ -169,22 +184,7 @@ app.component('portfo-sandy-goreraza', {
  
 
 
-     <!-- portfolio item -->
-				<div class="col-md-4 col-sm-6 grid-item reactjs">
-					<a href="#reactjs">
-						<div class="portfolio-item">
-							<div class="details">
-								<h4 class="title">EPP Client Portal for Domain Management(Front-end)</h4>
-								<span class="term">React js Library</span>
-							</div>
-							<span class="plus-icon">+</span>
-							<div class="thumb" style="height : 184px;width: 245px;">
-							<img src="./images/epp_portal.png" alt="MyMIoD" />
-								<div class="mask"></div>
-							</div>
-						</div>
-					</a>
-				</div>
+    
 
 
 
