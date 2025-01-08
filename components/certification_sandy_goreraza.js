@@ -48,7 +48,7 @@ certificates_header : 'Professional and Academic Certificates'
 						
 						<div class="testimonial-details">
 							<div class="thumb">
-								<img src="./images/exam-az400-600x600" alt="Azure DevOPs" />
+								<img src="./images/exam-az400-600x600.png" alt="Azure DevOPs" />
 							</div>
 							<div class="info">
 								<h4>AZ-400</h4>
