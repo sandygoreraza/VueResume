@@ -413,7 +413,7 @@ app.component('skills-sandy-goreraza', {
 					<!-- skill item -->
 					<div class="skill-item">
 						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">Microsoft Apps</h4>
+							<h4 class="float-left mb-3 mt-0">Ms Apps</h4>
 							<span class="float-right">80%</span>
 						</div>
 						<div class="progress">
@@ -475,6 +475,8 @@ app.component('skills-sandy-goreraza', {
 
 
 		<div class="row mt-5">
+
+  
    <div class="col-md-6">
 					<!-- skill item -->
 					<div class="skill-item">
@@ -488,7 +490,27 @@ app.component('skills-sandy-goreraza', {
 						</div>
 					</div>
 				</div>
-		</div>	
+
+
+      <div class="col-md-6">
+					<!-- skill item -->
+					<div class="skill-item">
+						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0"Ms Teams</h4>
+							<span class="float-right">80%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80">
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+    
+		</div>
+
+  
 		</section>
  
 `
