@@ -26,7 +26,7 @@ certificates_header : 'Professional and Academic Certificates'
 						
 						<div class="testimonial-details">
 							<div class="thumb">
-								<img src="https://media-exp1.licdn.com/dms/image/C560BAQHZsZ1Ybpmubw/company-logo_100_100/0/1535491877540?e=1637193600&v=beta&t=sChRbuCcd-rfIHnVrHLeolJrOwC7wezsELEZUDZ4Qio" alt="Pirple.comss" />
+								<img src="https://media.licdn.com/dms/image/v2/C4D0BAQGIk1Q0y8q9FQ/company-logo_200_200/company-logo_200_200/0/1630632188103/pirple_logo?e=1744243200&v=beta&t=Ql80Y3mmnJwQhW6-MmjGlZy3vXUoz7OEuvIeLlhq1wg" alt="Pirple.comss" />
 							</div>
 							<div class="info">
 								<h4>Full Stack Web Development with Flask</h4>
