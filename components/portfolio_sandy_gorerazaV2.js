@@ -262,7 +262,27 @@ app.component('portfo-sandy-goreraza', {
 				</div>
 
 
-       <!-- portfolio item -->
+     
+
+				<!-- portfolio item -->
+				<div class="col-md-4 col-sm-6 grid-item custom">
+					<a target="_blank" href="https://app.zimbabwetourism.net/">
+						<div class="portfolio-item">
+							<div class="details">
+								<h4 class="title">e-Registration - Tourism Industry</h4>
+								<span class="term">custom system</span>
+							</div>
+							<span class="plus-icon">+</span>
+							<div class="thumb" style="height : 184px;width: 245px;">
+								<img src="./images/Zimbabwe-Tourism-Authority-e-Registration.png" alt="e-Registration" />
+								<div class="mask"></div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+
+                              <!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item vuejs">
 					<a target="_blank" href="https://crm.miod.mu/mymiod/login">
 						<div class="portfolio-item">
@@ -281,22 +301,8 @@ app.component('portfo-sandy-goreraza', {
 
 			
 
-				<!-- portfolio item -->
-				<div class="col-md-4 col-sm-6 grid-item custom">
-					<a target="_blank" href="https://app.zimbabwetourism.net/">
-						<div class="portfolio-item">
-							<div class="details">
-								<h4 class="title">e-Registration - Tourism Industry</h4>
-								<span class="term">custom system</span>
-							</div>
-							<span class="plus-icon">+</span>
-							<div class="thumb" style="height : 184px;width: 245px;">
-								<img src="./images/Zimbabwe-Tourism-Authority-e-Registration.png" alt="e-Registration" />
-								<div class="mask"></div>
-							</div>
-						</div>
-					</a>
-				</div>
+
+    
 
 				<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item wordpress design">
