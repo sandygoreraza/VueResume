@@ -425,22 +425,6 @@ app.component('skills-sandy-goreraza', {
 
 
 
-
-
-    				<div class="col-md-6">
-					<!-- skill item -->
-					<div class="skill-item">
-						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">Agile Development</h4>
-							<span class="float-right">80%</span>
-						</div>
-						<div class="progress">
-							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80">
-							</div>
-						</div>
-					</div>
-				</div>
-
     
 
 			</div>
@@ -463,7 +447,25 @@ app.component('skills-sandy-goreraza', {
 							</div>
 						</div>
 					</div>
-				</div>			
+				</div>	
+
+
+                         <div class="col-md-6">
+					<!-- skill item -->
+					<div class="skill-item">
+						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0">Agile Development</h4>
+							<span class="float-right">80%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80">
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+    
 			
 </div>			
 		</section>
