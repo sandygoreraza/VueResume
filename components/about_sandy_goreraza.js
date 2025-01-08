@@ -33,7 +33,7 @@ app.component('about-sandy-goreraza', {
 
 			<div class="row">
 				<div class="col-md-3">
-					<img src="images/VECTORS-Adobe-Stock.png" alt="about" class="rounded-circle mx-2" width="100" height="100"/>
+					<img src="images/VECTORS-Adobe-Stock.png" alt="about" class="rounded-circle mx-2" width="150" height="150"/>
 				</div>
 				<div class="col-md-9">
 					<h2 class="mt-4 mt-md-0 mb-4">Value Proposition</h2>
