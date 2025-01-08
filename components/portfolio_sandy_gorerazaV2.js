@@ -227,22 +227,7 @@ app.component('portfo-sandy-goreraza', {
 					</a>
 				</div>
 
-				<!-- portfolio item -->
-				<div class="col-md-4 col-sm-6 grid-item wordpress">
-					<a href="#Place-of-Stone">
-						<div class="portfolio-item">
-							<div class="details">
-								<h4 class="title">Place of Stone</h4>
-								<span class="term">Travel CMS</span>
-							</div>
-							<span class="plus-icon">+</span>
-							<div class="thumb" style="height : 184px;width: 245px;">
-								<img src="./images/Place-of-Stone.png" alt="Place-of-Stone" />
-								<div class="mask"></div>
-							</div>
-						</div>
-					</a>
-				</div>
+			
 
 				<!-- portfolio item -->
 				<div class="col-md-4 col-sm-6 grid-item custom">
