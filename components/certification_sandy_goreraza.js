@@ -26,7 +26,7 @@ certificates_header : 'Professional and Academic Certificates'
 						
 						<div class="testimonial-details">
 							<div class="thumb">
-								<img src="https://media.licdn.com/dms/image/v2/C4D0BAQGIk1Q0y8q9FQ/company-logo_200_200/company-logo_200_200/0/1630632188103/pirple_logo?e=1744243200&v=beta&t=Ql80Y3mmnJwQhW6-MmjGlZy3vXUoz7OEuvIeLlhq1wg" alt="Pirple.comss" />
+								<img src="./images/pirple.jpg" alt="Pirple.comss" />
 							</div>
 							<div class="info">
 								<h4>Full Stack Web Development with Flask</h4>
@@ -47,7 +47,7 @@ certificates_header : 'Professional and Academic Certificates'
 						
 						<div class="testimonial-details">
 							<div class="thumb">
-								<img src="https://media-exp1.licdn.com/dms/image/C560BAQHZGwx3yx2sjQ/company-logo_100_100/0/1605546912849?e=1637193600&v=beta&t=vEr4Ael2898s676ipcYB2zuQPOReyDq9jN7ks9Ygaes" alt="Google Digital Garage" />
+								<img src="./images/googledigitalgarage.jpg" alt="Google Digital Garage" />
 							</div>
 							<div class="info">
 								<h4>The Fundamentals of Digital Marketing</h4>
@@ -69,7 +69,7 @@ certificates_header : 'Professional and Academic Certificates'
 						
 						<div class="testimonial-details">
 							<div class="thumb">
-								<img src="https://media-exp1.licdn.com/dms/image/C560BAQFuwUhelLNrBw/company-logo_100_100/0/1569342666743?e=1637193600&v=beta&t=UpIaIGHnSmHwEHylKGSjgsJw_7NF29Gz0VUi-9AANU8" alt="Alison" />
+								<img src="./images/alison.jpg" alt="Alison" />
 							</div>
 							<div class="info">
 								<h4>Unix/Linux and Shell Scripting - Crash Course</h4>
@@ -91,7 +91,7 @@ certificates_header : 'Professional and Academic Certificates'
 						
 						<div class="testimonial-details">
 							<div class="thumb">
-								<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEx8fTz8QFKvw/company-logo_100_100/0/1615318650285?e=1637193600&v=beta&t=hoWvtjHvkdJyvoFN1MT5CI59ZUqQwxu71vSRZ-7NlBc" alt="Google Africa Developer Training Program" />
+								<img src="./images/googleafricadeveloper.jpg" alt="Google Africa Developer Training Program" />
 							</div>
 							<div class="info">
 								<h4>Google Africa Developer Training Program</h4>
@@ -112,7 +112,7 @@ certificates_header : 'Professional and Academic Certificates'
 						
 						<div class="testimonial-details">
 							<div class="thumb">
-								<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFAYA4YGB-LEA/company-logo_100_100/0/1604920258007?e=1637193600&v=beta&t=1lYpOrqGoOImuG-1L9PNXDFCYwnLWyrdNeKE_lR3_zc" alt="SkillFront" />
+								<img src="./images/skillfront.jpg" alt="SkillFront" />
 							</div>
 							<div class="info">
 								<h4>ISO / IEC 27001 - Information Security Associate</h4>
@@ -133,7 +133,7 @@ certificates_header : 'Professional and Academic Certificates'
 						
 						<div class="testimonial-details">
 							<div class="thumb">
-								<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGodE4QYbzDAg/company-logo_100_100/0/1586519721252?e=1637193600&v=beta&t=O5v2NjLJ0zgvncO6pE2Mpei6h_Tfhlm9XPtYD3Azoac" alt="ICSI (International CyberSecurity Institute), UK" />
+								<img src="./images/icsi.jpg" alt="ICSI (International CyberSecurity Institute), UK" />
 							</div>
 							<div class="info">
 								<h4>Certified Network Security Specialist CNSS</h4>
@@ -156,7 +156,7 @@ certificates_header : 'Professional and Academic Certificates'
 						
 						<div class="testimonial-details">
 							<div class="thumb">
-								<img src="https://media-exp1.licdn.com/dms/image/C560BAQGGl0q4Hi_fdQ/company-logo_100_100/0/1622846387426?e=1637193600&v=beta&t=LUTOR0L0kqYwOOuRSztpMBqSEHhGNwaru6nRHcXpzm4" alt="Treehouse" />
+								<img src="./images/treehouse.jpg" alt="Treehouse" />
 							</div>
 							<div class="info">
 								<h4>Programmed Languages in PHP, Python, C#, Algorithms and Data Structures, WordPress and Systems Security</h4>
@@ -175,7 +175,7 @@ certificates_header : 'Professional and Academic Certificates'
 						
 						<div class="testimonial-details">
 							<div class="thumb">
-								<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFimstiGo0FrA/company-logo_100_100/0/1519867447596?e=1637193600&v=beta&t=spe9CLh9FsIj54QkFgeN_tU3Utu0PNLGuURBImOeDpI" alt="University of Zimbabwe" />
+								<img src="./images/uz.jpg" alt="University of Zimbabwe" />
 							</div>
 							<div class="info">
 								<h4>Bachelor of Business Studies and Computing Science Degree</h4>
