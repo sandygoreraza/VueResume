@@ -3,7 +3,7 @@
 ### PERSONAL SUMMARY
 A professional Software Engineer with more than 10 years' experience in software development and architecture. Ready to bring a blend of technical expertise and business acumen to the table. Meticulous attention to detail and efficiency in a fast-paced environment. Committed to delivering high-quality solutions that align with business objectives.
 
-To view this Resume see [Sandy Goreraza Resume](https://sandygoreraza.github.io/VueResume).
+To view this Resume see [Sandy Goreraza Resume](https://sandygoreraza.github.io/myresume/).
 
 ### CORE COMPETENCIES
 
