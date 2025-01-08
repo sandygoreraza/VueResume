@@ -6,7 +6,8 @@ app.component('pro-experience-sandy-goreraza', {
 		WORPLACEONE : 'Zimbabwe Tourism Authority ',
 		WORKPLACETWO : 'Place of Stone',
 		WORKPLACETHREE : 'CST Advisory Services ',
-		WORKPLACEFOUR : 'cybernaptics Ltd'
+		WORKPLACEFOUR : 'cybernaptics Ltd',
+		WORKPLACEFIVE : 'Ahona Innovations'	
 		}
 		
 	},
@@ -21,6 +22,21 @@ app.component('pro-experience-sandy-goreraza', {
 
 			<!-- timeline -->
 			<div class="timeline">
+
+
+  					 <div class="entry">
+					<div class="title">
+                                                <span><img src="./images/cybernapticslogo.png" class="rounded-circle mx-1-custome" alt="Cybernaptics" width="200" height="80"> </span>
+						<span><div class="mb-2">Dec 2023 - Present</div></span>
+					</div>
+					<div class="body">
+						<h4 class="mt-0">SOFTWARE DEVELOPMENT C</h4>
+						<h5 class="mt-1" style="color:#000080;font-size: 1.25rem !important;">{{ WORKPLACEFIVE }}</h5>
+						<p style="text-align: justify;">Build strong relationships with clients, effectively communicating technical concepts in an understandable way. Provide strategic guidance on technology choices,
+      software architecture, and development methodologies. Design innovative solutions, conduct thorough code evaluations, and ensure compliance with quality standards. Collaborate with teams to plan and execute projects, identify process 
+      improvements, and implement agile and DevOps practices. Additionally, mentor junior developers to help them grow professionally and refine their skills.</p>
+						</div>
+							</div>
 
 					<div class="entry">
 					<div class="title">
