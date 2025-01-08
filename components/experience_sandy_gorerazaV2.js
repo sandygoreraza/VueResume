@@ -24,7 +24,7 @@ app.component('pro-experience-sandy-goreraza', {
 
 					<div class="entry">
 					<div class="title">
-                                                <span><img src="./images/cybernapticslogo.png" class="rounded-circle mx-2" alt="Cybernaptics" width="100" height="100"> </span>
+                                                <span><img src="./images/cybernapticslogo.png" class="rounded-circle mx-2" alt="Cybernaptics" width="200" height="80"> </span>
 						<span><div class="mb-2">Feb 2022 - Dec 2023</div></span>
 					</div>
 					<div class="body">
@@ -39,7 +39,7 @@ app.component('pro-experience-sandy-goreraza', {
    
 				<div class="entry">
 					<div class="title">
-                                                <span><img src="./images/ZTA-Logo-PNG.png" class="rounded-circle mx-2" alt="Cinque Terre" width="100" height="100"> </span>
+                                                <span><img src="./images/ZTA-Logo-PNG.png" class="rounded-circle mx-2" alt="Zimbabwe Tourism Authority" width="100" height="100"> </span>
 						<span><div class="mb-2">March 2014 - Jan 2022</div></span>
 					</div>
 					<div class="body">
