@@ -465,7 +465,17 @@ app.component('skills-sandy-goreraza', {
 				</div>
 
 
-               <div class="col-md-6">
+            
+
+
+    
+			
+</div>	
+
+
+
+		<div class="row mt-5">
+   <div class="col-md-6">
 					<!-- skill item -->
 					<div class="skill-item">
 						<div class="skill-info clearfix">
@@ -478,11 +488,7 @@ app.component('skills-sandy-goreraza', {
 						</div>
 					</div>
 				</div>
-
-
-    
-			
-</div>			
+		</div>	
 		</section>
  
 `
