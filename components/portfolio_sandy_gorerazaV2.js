@@ -125,7 +125,7 @@ app.component('portfo-sandy-goreraza', {
 					<a href="#reactjs">
 						<div class="portfolio-item">
 							<div class="details">
-								<h4 class="title">EPP Client Portal for Domain Management</h4>
+								<h4 class="title">EPP Client Portal for Domain Management(Front-end)</h4>
 								<span class="term">React js Library</span>
 							</div>
 							<span class="plus-icon">+</span>
