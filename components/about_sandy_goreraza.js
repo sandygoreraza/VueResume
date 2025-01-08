@@ -12,8 +12,8 @@ app.component('about-sandy-goreraza', {
                 ' a transfer of technical and academic prowess, single minded focus and conceptual' +
                 ' / practical agility in exchange for the acquisition of a higher level of ' +
                 'professional learning, growth and development.',
-            email : 'gorerazasandy10@gmail.com.',
-            Address : 'Mabvuku Police Camp,Old Mabvuku, Harare, Zimbabwe.',
+            email : 'sandygoreraza@hotmail.com',
+            Address : '12125 Timire Park, Ruwa, Harare, Zimbabwe.',
             phonenumber : '+263 778 218 850 / +263 773 300 994',
 			cv_owner : 'Sandy Goreraza' 
            
