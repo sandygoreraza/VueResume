@@ -72,7 +72,7 @@ app.component('coming-soon-contact-sandy-goreraza', {
 data(){
 return{
 
-title : 'Get in touch - Contact Form Coming Soon'
+title : 'Get in touch'
 
 
 
@@ -94,7 +94,7 @@ title : 'Get in touch - Contact Form Coming Soon'
 			<div class="row">
 			
 			<div class="col-md-6" style="text-align: center;">
-			<a href="mailto:gorerazasandy10@gmail.com" class="btn btn-default mr-3"><i class="icon-envelope-letter"></i>Email</a>
+			<a href="mailto:sandygoreraza@hotmail.com" class="btn btn-default mr-3"><i class="icon-envelope-letter"></i>Email</a>
 			</div>	
 			
 				<div class="col-md-6" style="text-align: center;">
