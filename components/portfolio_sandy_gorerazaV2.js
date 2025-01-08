@@ -18,10 +18,11 @@ app.component('portfo-sandy-goreraza', {
 
 			<!-- portfolio filter (desktop) -->
 			<ul class="portfolio-filter list-inline">
-				<li class="current list-inline-item" data-filter="*">Projects Highlight</li>
+				<li class="current list-inline-item" data-filter="*">Projects</li>
 				<li class="list-inline-item" data-filter=".custom">Custom</li>
 				<li class="list-inline-item" data-filter=".wordpress">WordPress</li>
 				<li class="list-inline-item" data-filter=".flask">Flask</li>
+  				<li class="list-inline-item" data-filter=".dotnet">ASP .Net</li>
 				<li class="list-inline-item" data-filter=".laravel">Laravel</li>
    				<li class="list-inline-item" data-filter=".vuejs">Vue.js</li>
       				<li class="list-inline-item" data-filter=".reactjs">React js</li>
@@ -36,6 +37,7 @@ app.component('portfo-sandy-goreraza', {
 					<option value="*">Projects</option>
 					<option value=".custom">Custom</option>
 					<option value=".flask">Flask</option>
+     					<option value=".dotnet">ASP .Net</option>
 					<option value=".laravel">Laravel</option>
 					<option value=".vuejs">Vue.js</option>
 					<option value=".reactjs">React js</option>
@@ -117,6 +119,25 @@ app.component('portfo-sandy-goreraza', {
 							<span class="plus-icon">+</span>
 							<div class="thumb" style="height : 184px;width: 245px;">
 							<img src="./images/MyMIoD.png" alt="MyMIoD" />
+								<div class="mask"></div>
+							</div>
+						</div>
+					</a>
+				</div>
+
+
+
+    			<!-- portfolio item -->
+				<div class="col-md-4 col-sm-6 grid-item dotnet">
+					<a target="_blank" href="https://algorythmics.mu/">
+						<div class="portfolio-item">
+							<div class="details">
+								<h4 class="title">KYC Portal</h4>
+								<span class="term">ASP .Net</span>
+							</div>
+							<span class="plus-icon">+</span>
+							<div class="thumb" style="height : 184px;width: 245px;">
+							<img src="./images/KYC_Portal.png" alt="KYC Portal" />
 								<div class="mask"></div>
 							</div>
 						</div>
