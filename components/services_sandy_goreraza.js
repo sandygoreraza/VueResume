@@ -23,8 +23,8 @@ app.component('services-sandy-goreraza', {
 					<!-- service item -->
 					<div class="service-item text-center">
 						<i class="icon-globe icon-simple"></i>
-						<h4 class="my-3">Development</h4>
-						<p class="mb-0">Web and mobile development.</p>
+						<h4 class="my-3">Software Development</h4>
+						<p class="mb-0">Frontend and Backend Development.</p>
 					</div>
 					<div class="spacer" data-height="20"></div>
 				</div>
@@ -33,8 +33,8 @@ app.component('services-sandy-goreraza', {
 					<!-- service item -->
 					<div class="service-item text-center">
 						<i class="icon-chemistry icon-simple"></i>
-						<h4 class="my-3">Design</h4>
-						<p class="mb-0">Graphic, Frontend and Backend design.</p>
+						<h4 class="my-3">Software Versioning</h4>
+						<p class="mb-0">Github and Azure DevOps.</p>
 					</div>
 					<div class="spacer" data-height="20"></div>
 				</div>
@@ -43,8 +43,8 @@ app.component('services-sandy-goreraza', {
 					<!-- service item -->
 					<div class="service-item text-center">
 						<i class="icon-directions icon-simple"></i>
-						<h4 class="my-3">Digital Marketing</h4>
-						<p class="mb-0">Online advertising and marketing.</p>
+						<h4 class="my-3">Microservices</h4>
+						<p class="mb-0">Microservice Application.</p>
 					</div>
 					<div class="spacer" data-height="20"></div>
 				</div>
