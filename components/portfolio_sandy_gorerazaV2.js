@@ -19,7 +19,7 @@ app.component('portfo-sandy-goreraza', {
 
 			<!-- portfolio filter (desktop) -->
 			<ul class="portfolio-filter list-inline">
-				<li class="current list-inline-item" data-filter="*">Projects</li>
+				<li class="current list-inline-item" data-filter="*">Featured Projects</li>
 				<li class="list-inline-item" data-filter=".custom">Custom</li>
 				<li class="list-inline-item" data-filter=".wordpress">WordPress</li>
 				<li class="list-inline-item" data-filter=".flask">Flask</li>
