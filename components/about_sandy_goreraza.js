@@ -55,7 +55,7 @@ app.component('about-sandy-goreraza', {
 					
 					
 					<!--<a href="#" class="btn btn-default mr-2"><i class="icon-cloud-download"></i>Download CV</a>-->
-					<a href="tel:+263778218850" class="btn btn-alt mt-2 mt-md-0 mt-xs-2"><i class="icon-phone"></i>Hire me</a>
+					<!--<a href="tel:+263778218850" class="btn btn-alt mt-2 mt-md-0 mt-xs-2"><i class="icon-phone"></i>Hire me</a>-->
 				</div>
 			</div>
 		</section>
