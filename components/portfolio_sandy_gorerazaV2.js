@@ -15,6 +15,7 @@ app.component('portfo-sandy-goreraza', {
 		<section id="works" class="shadow-blue white-bg padding">
 			<h3 class="section-title">{{ title }}</h3>
 			<div class="spacer" data-height="80"></div>
+   <p style="text-align: justify;" class="text-dark">While some of my highlighted projects are featured here, the majority of my work comprises intranet applications developed for internat use across various industries. These projects, though not publicly accessible, have been pivotal in streamlining operations and enhancing organisational efficiency throughout my career.</p>
 
 			<!-- portfolio filter (desktop) -->
 			<ul class="portfolio-filter list-inline">
