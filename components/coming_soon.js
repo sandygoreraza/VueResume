@@ -1,4 +1,4 @@
-app.component('coming-soon-contact-sandy-goreraza', {
+app.component('coming-soon', {
 		
 	data(){
 		return{
