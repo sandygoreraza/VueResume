@@ -45,8 +45,8 @@ $(window).on("load",function(){
      =========================================================================*/
     var curPage = 1;
     var pagesNum = $(".portfolio-pagination").find("li a:last").text();   // Number of pages
-var $j = jQuery.noConflict();
-    $jcontainer.infinitescroll({
+   //var $j = jQuery.noConflict();
+    $container.infinitescroll({
         itemSelector: '.grid-item',
         nextSelector: '.portfolio-pagination li a',
         navSelector: '.portfolio-pagination',
