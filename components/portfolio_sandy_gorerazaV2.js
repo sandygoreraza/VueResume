@@ -39,6 +39,7 @@ app.component('portfo-sandy-goreraza', {
 					<option value=".laravel">Laravel</option>
 					<option value=".vuejs">Vue.js</option>
 					<option value=".reactjs">React js</option>
+                                        <option value=".crm">VtigerCRM</option>
 					<option value=".javaee">Java EE</option>
  					<option value=".video">Video</option>
 				</select>
