@@ -252,6 +252,23 @@ app.component('skills-sandy-goreraza', {
 					</div>
 				</div>
 
+
+
+   			      <div class="col-md-6">
+					<!-- skill item -->
+					<div class="skill-item">
+						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0">Docker</h4>
+							<span class="float-right">70%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="70">
+							</div>
+						</div>
+						<div class="spacer d-md-none d-lg-none" data-height="50"></div>
+					</div>
+				</div>
+
 				<div class="col-md-6">
 					<!-- skill item -->
 					<div class="skill-item">
@@ -381,7 +398,7 @@ app.component('skills-sandy-goreraza', {
 					<!-- skill item -->
 					<div class="skill-item">
 						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">WebRTC,Y</h4>
+							<h4 class="float-left mb-3 mt-0">WebRTC</h4>
 							<span class="float-right">60%</span>
 						</div>
 						<div class="progress">
@@ -405,6 +422,26 @@ app.component('skills-sandy-goreraza', {
 						</div>
 					</div>
 				</div>
+
+
+
+
+
+    				<div class="col-md-6">
+					<!-- skill item -->
+					<div class="skill-item">
+						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0">Agile Development</h4>
+							<span class="float-right">80%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80">
+							</div>
+						</div>
+					</div>
+				</div>
+
+    
 
 			</div>
 
