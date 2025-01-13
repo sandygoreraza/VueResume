@@ -14,7 +14,7 @@ app.component('intro-sandy-goreraza', {
   
   
   	<!-- section hero intor -->
-		<section class="hero background parallax shadow-dark d-flex align-items-center" id="home" data-image-src="https://via.placeholder.com/900x400">
+		<section class="hero background parallax shadow-dark d-flex align-items-center" id="home" data-image-src="https://placehold.co/900x400">
 			<div class="cta mx-auto mt-2">
 				<h1 class="mt-0 mb-4">{{  cv_owner }}<span class="dot"></span></h1>
 				<p class="mb-4" style="text-align: justify;
